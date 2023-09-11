@@ -17,6 +17,13 @@ próxima fase, caso não consiga, o jogo acaba. Na fase dois o jogador terá que
 Pré-condições: O jogo precisa ser iniciado.<br>
 Pós condições: Mostrar a tela de vencedor ou game over.<br>
 
+<h3><center>Ações do jogador</center></h3><br>
+1- Iniciar jogo<br>
+2- Procurar as peças<br>
+3- Atirar nos alienígenas<br>
+4- Se manter vivo<br>
+
+
 <h1><center>Explicação do jogo</center></h1><br>
 O jogador deve procurar por peças da nave que por conta de um pouso forçado se desprenderam enquanto tem um tempo limite de oxigênio, após encontrá las, ele precisa levá la para a nave, se ele conseguir encontrar todas antes q o tempo acabe, ele irá para a
 próxima fase, caso não consiga, o jogo acaba. Na fase dois o jogador terá que enfrentar uma horda de alienígenas que irão tentar atacá-lo, caso um dos alienígena consiga, o jogo irá acabar, ele poderá se defender com uma arma de lazer que mata os alienígenas. Se ele conseguir ficar vivo até o tempo da horda acabar, ele ganha o jogo e volta para a terra.
