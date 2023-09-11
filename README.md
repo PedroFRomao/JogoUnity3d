@@ -1,8 +1,9 @@
 # JogoUnity3d
 
-![image](https://github.com/PedroFRomao/JogoUnity3d/assets/120103357/16759494-52dc-46ef-a7e9-d7f1bd9a0b5c)
-<br>
-![image](https://github.com/PedroFRomao/JogoUnity3d/assets/120103357/669d10ec-ea4f-496b-bb98-ecf12fd5fb72)
+![image](https://github.com/PedroFRomao/JogoUnity3d/assets/120103357/3b57d2e0-588a-47f5-b102-97fe7480a5f0)
+
+![image](https://github.com/PedroFRomao/JogoUnity3d/assets/120103357/587d0c3b-3cbe-43ab-aa17-6036712c495b)
+
 
 <h1>Fotos no documento</h1>
 
