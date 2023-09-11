@@ -4,6 +4,8 @@
 <br>
 ![image](https://github.com/PedroFRomao/JogoUnity3d/assets/120103357/669d10ec-ea4f-496b-bb98-ecf12fd5fb72)
 
+<h1>Fotos no documento</h1>
+
 <h1><center>Documentação Casos de Uso</center></h1><br>
 Nome do caso de uso: Jogo unit.<br>
 Caso de uso geral: Encontrar peças antes de acabar o seu oxigênio e sobreviver contra<br>
